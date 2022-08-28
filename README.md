@@ -2,7 +2,7 @@
 
 <h2>Works on Windows only!</h2>
 
-<h3>Autodelete files in repositories which are older than 7 days</h3>
+<h3>Autodelete files in folders which are older than 7 days</h3>
 
 This Repo contains a `main.py` file which sould be converted to a `.exe` file to work as intended.
 
